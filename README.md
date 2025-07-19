@@ -3,7 +3,7 @@
 <h2 align="center">🚀 <strong>Your Tech Guy</strong> 🚀</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=I+am+Ali+Sachal+Abdullah%2C+your+IT+Guy+and+Tech+Explorer.;%F0%9F%8E%93+2nd+Year+Student+of+Computer+Engineering.;%F0%9F%92%A1+Flutter+Developer+%26+ML+Enthusiast!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=I+am+Ali+Sachal+Abdullah%2C+your+IT+Guy+and+Tech+Explorer.;%F0%9F%8E%93+3nd+Year+Student+of+Computer+Engineering.;%F0%9F%92%A1+Flutter+Developer+%26+ML+Enthusiast!" alt="Typing SVG" />
 </p>
 
 
